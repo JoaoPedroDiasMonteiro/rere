@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c147c5c8.chunk.css",
+    "main.js": "/static/js/main.f5643a87.chunk.js",
+    "main.js.map": "/static/js/main.f5643a87.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9cd6e0bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9cd6e0bf.js.map",
+    "static/css/2.d88a60dc.chunk.css": "/static/css/2.d88a60dc.chunk.css",
+    "static/js/2.aba8a4f3.chunk.js": "/static/js/2.aba8a4f3.chunk.js",
+    "static/js/2.aba8a4f3.chunk.js.map": "/static/js/2.aba8a4f3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.acd253f176c16b4b308ef5a14904152c.js": "/precache-manifest.acd253f176c16b4b308ef5a14904152c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d88a60dc.chunk.css.map": "/static/css/2.d88a60dc.chunk.css.map",
+    "static/css/main.c147c5c8.chunk.css.map": "/static/css/main.c147c5c8.chunk.css.map",
+    "static/js/2.aba8a4f3.chunk.js.LICENSE.txt": "/static/js/2.aba8a4f3.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/ELDA-MARIA.3774879e.TTF",
+    "static/media/black-brown-and-white-melted-cake-on-round-white-ceramic-954199.jpg": "/static/media/black-brown-and-white-melted-cake-on-round-white-ceramic-954199.ca5e3327.jpg",
+    "static/media/blueberries-cake-chocolate-chocolate-cake-291528.jpg": "/static/media/blueberries-cake-chocolate-chocolate-cake-291528.2d54212e.jpg",
+    "static/media/blur-breakfast-close-up-dairy-product-376464.jpg": "/static/media/blur-breakfast-close-up-dairy-product-376464.d66ecdc3.jpg",
+    "static/media/bowl-breakfast-calcium-cereal-414262.jpg": "/static/media/bowl-breakfast-calcium-cereal-414262.a2bc8024.jpg",
+    "static/media/chocolate-beside-raspberry-918328.jpg": "/static/media/chocolate-beside-raspberry-918328.118f9493.jpg",
+    "static/media/chocolate-cake-on-chopping-board-2067396.jpg": "/static/media/chocolate-cake-on-chopping-board-2067396.4df628dc.jpg",
+    "static/media/colheres.jpg": "/static/media/colheres.2aea2f30.jpg",
+    "static/media/colorful-doughnuts-3338681.jpg": "/static/media/colorful-doughnuts-3338681.b600fbd9.jpg",
+    "static/media/strawberries-1132558.jpg": "/static/media/strawberries-1132558.09883d19.jpg",
+    "static/media/white-bowl-of-whole-strawberries-89778.jpg": "/static/media/white-bowl-of-whole-strawberries-89778.a4fc43e4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cd6e0bf.js",
+    "static/css/2.d88a60dc.chunk.css",
+    "static/js/2.aba8a4f3.chunk.js",
+    "static/css/main.c147c5c8.chunk.css",
+    "static/js/main.f5643a87.chunk.js"
+  ]
+}
